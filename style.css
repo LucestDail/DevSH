@@ -661,6 +661,15 @@ header{
 .introclass{
     padding: 0;
     margin-bottom: 20;
+    display: flex;
+    
+}
+.introclass img{
+    display: block;
+    max-width:500px;
+    max-height:250px;
+    width: auto;
+    height: auto;
 }
 
 @media(min-width:768px){
