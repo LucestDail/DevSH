@@ -660,9 +660,7 @@ header{
 }
 .introclass{
     padding: 0;
-    margin-bottom: 20;
-    display: flex;
-    
+    margin-bottom: 20;    
 }
 .introclass img{
     display: block;
