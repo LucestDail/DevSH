@@ -8,7 +8,7 @@ This repository is my portfolio, on-work, project which used html/css, javascrip
 
 ## DEMO
 
-Currently, this project provides a demo version using GitHub hosting and you can access with [this link](https://www.codewars.com/dashboard)
+Currently, this project provides a demo version using GitHub hosting and you can access with [this link](https://lucestdail.github.io/DevSH/)
 
 ## How to run this source code
 
